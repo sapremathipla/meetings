@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@azure/identity": "^4.7.0",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "joi": "^17.13.3",
+    "moment": "^2.30.1",
+    "pg": "^8.13.3",
+    "sequelize": "^6.37.5"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0"
+  }
+}
