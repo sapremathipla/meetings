@@ -1,0 +1,3 @@
+[submodule "meeting-form"]
+	path = meeting-form
+	url = https://github.com/sapremathipla/meetings.git
